@@ -1,4 +1,7 @@
 # piebuttons
 Creating Buttons in Pie form and implementing their onClick Action.
 
-I'm Harneev, Android Geek.
+# Installation
+Simply download and import in eclipse.
+
+Developer : Harneev@gmail.com
